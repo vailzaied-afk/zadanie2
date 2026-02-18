@@ -92,24 +92,8 @@ public class Main {
         float kristinaSalaryDifference = kristinaSalary - kristina;
         System.out.println("Маша теперь получает " + mashaSalary + " рублей. Годовой доход вырос на " + mashaSalaryDifference + " рублей" + '\n' +
                 "Денис теперь получает " + denisSalary + " рублей. Годовой доход вырос на " + denisSalaryDifference + " рублей" + '\n' +
-                "Кристина теперь получает " + kristinaSalary + " рублей. Годовой доход вырос на " + kristinaSalaryDifference + " рублей" + '\n'
+                "Кристина теперь получает " + kristinaSalary + " рублей. Годовой доход вырос на " + kristinaSalaryDifference + " рублей"
         );
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     }
 }
